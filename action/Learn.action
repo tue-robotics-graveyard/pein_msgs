@@ -1,0 +1,11 @@
+string module
+uint16 n_models
+string model_name
+string view
+bool publish_while_learning
+---
+string message
+uint16 error
+---
+#feedback
+int32[] sequence
